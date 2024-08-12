@@ -13,7 +13,7 @@ export default function Hero() {
 				Full Stack Developer
 			</h4>
 			<p className="md:text-xl text-xl leading-8 text-justify">
-			Welcome to my digital realm, where creativity meets code to craft extraordinary web experiences. Dive into my portfolio to discover how I transform ideas into interactive realities. Let&apos;s connect and bring something remarkable to life together. I specialize in  HTML, CSS, JavaScript, Bootstrap, Laravel, PHP, Wordpress Currently, I'm honing my skills at Hyphun Technology.{" "}
+			Welcome to my digital realm, where creativity meets code to craft extraordinary web experiences. Dive into my portfolio to discover how I transform ideas into interactive realities. Let&apos;s connect and bring something remarkable to life together. I specialize in  HTML, CSS, JavaScript, Bootstrap, Laravel, PHP, Wordpress Currently, I&apos;m honing my skills at Hyphun Technology.{" "}
 				<a
 					href="https://hyphun.com/"
 					target="_blank"
